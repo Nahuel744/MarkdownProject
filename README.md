@@ -17,6 +17,12 @@ Este proyecto es un proyecto donde aprenderemos a utilizar Markdown y Git [Git D
 
 ### Feutures
 
+|Feutures|Descriptions|Estat|
+|--|--|--|
+|Utilizar Git|Utilizar todas las funcionalidades de Git|In Progress|
+|Utilitza Markdown|utilizar todas la funcionalidades|In Progress|
+|Utilizar Github|Utilizar todas la funcionalidades de Github|In Progress|
+
 ### Installation
 
 ### Usage
