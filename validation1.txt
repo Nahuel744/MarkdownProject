@@ -1,0 +1,90 @@
+commit fbccb0973fc369fd2c7899c3a842362d50cd59fb
+Author: Nahuel774 <itsnahuelh@gmail.com>
+Date:   Sat Nov 14 17:41:39 2026 +0100
+
+    Update introduction of README.md
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 7e295b092299bda55146534c03e327b8243706b8
+Author: Nahuel774 <itsnahuelh@gmail.com>
+Date:   Sat Nov 14 17:26:36 2026 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit 33b5c63fb909b95a3f00ad2a8384a4139f43e25c
+Author: Nahuel774 <itsnahuelh@gmail.com>
+Date:   Sat Nov 14 17:17:27 2026 +0100
+
+    Enhance README with formatting
+
+ README.md | 24 ++++++++++++++++++++++++
+ 1 file changed, 24 insertions(+)
+
+commit ee178ebec4084d9122b3670608289f3a976c2ee1
+Author: Nahuel774 <itsnahuelh@gmail.com>
+Date:   Sat Nov 14 17:03:45 2026 +0100
+
+    Add feuture list table to README
+
+ README.md | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 8c4ca9c05063f0d7606b75d4b826141fb199b4d2
+Author: Nahuel774 <itsnahuelh@gmail.com>
+Date:   Sat Nov 14 16:34:44 2026 +0100
+
+    Add project logo to README
+
+ README.md       |   2 ++
+ images/logo.png | Bin 0 -> 9744 bytes
+ 2 files changed, 2 insertions(+)
+
+commit 78bcef7086e5bf709dea4ffeecc5fbf775929c97
+Author: Nahuel774 <itsnahuelh@gmail.com>
+Date:   Sat Nov 14 16:26:38 2026 +0100
+
+    Add sections to README
+
+ README.md | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+
+commit f000e293688f35f5d6f39a009a26fdbeb439eedc
+Author: Nahuel774 <itsnahuelh@gmail.com>
+Date:   Sat Nov 14 16:23:08 2026 +0100
+
+    Add hyperlinks to README
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit b891c8ddf5bf64969071b7e07f81c74067f1a6a7
+Author: Nahuel774 <itsnahuelh@gmail.com>
+Date:   Sat Nov 14 15:44:48 2026 +0100
+
+    Add Table of Contents to README
+
+ README.md | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+
+commit 11d4b3f339f59507aa0c7ce2510584dd223e9f1b
+Author: Nahuel774 <itsnahuelh@gmail.com>
+Date:   Sat Nov 14 15:33:29 2026 +0100
+
+    Add README with project introduction
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit a9cea0d5bd0d45fb81b9dea326c155771180c7ee
+Author: Nahuel774 <itsnahuelh@gmail.com>
+Date:   Sat Nov 14 15:20:40 2026 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 2 ++
+ 1 file changed, 2 insertions(+)
